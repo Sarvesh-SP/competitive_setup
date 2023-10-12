@@ -28,3 +28,5 @@
 	- https://www.sublimetext.com/download
 -   Header Precompile
 	- https://discuss.codechef.com/t/how-to-precompile-bits-stdc-h-in-ubuntu-20-04-lts-help/92250
+ - Go to the bits folder and run the below command.
+ 	- `g++ -std=c++17 stdc++.h`	 
